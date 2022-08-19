@@ -17,7 +17,7 @@ form {
   width: 80vw;
   max-width: 500px;
   min-width: 300px;
-  margin: 0 auto;
+  margin: 0 auto; /*to center the form*/
   padding-bottom: 2em;
 }
 
